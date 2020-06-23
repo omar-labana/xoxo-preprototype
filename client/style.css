@@ -1,0 +1,10 @@
+.square {
+    width: 200px;
+    height: 200px;
+    border: 10px violet solid;
+    display: inline-block;
+}
+
+img {
+    display: block;
+}
